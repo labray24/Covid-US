@@ -3,7 +3,7 @@
 """
 Created on Wed Apr  1 12:46:24 2020
 
-@author: pi
+
 """
 #%%
 import pandas as pd

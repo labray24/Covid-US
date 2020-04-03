@@ -3,7 +3,7 @@
 """
 Created on Sun Mar 29 10:18:40 2020
 
-@author: pi
+
 """
 #%%
 import requests
